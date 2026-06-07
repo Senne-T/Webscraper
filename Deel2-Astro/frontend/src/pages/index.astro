@@ -1,0 +1,51 @@
+---
+import SearchInput from "../components/SearchInput.astro"
+import DiscountRangeSlider from "../components/DiscountRangeSlider.astro"
+import GameList from "../components/GameList.astro"
+
+import gamesJSON from "../data/steam-deals.json"
+
+import "../styles/global.css"
+---
+
+<div class="container mx-auto py-4 space-y-8">
+  <h1 class="text-3xl">Game discount checker</h1>
+
+  <div class="grid grid-cols-2 gap-4">
+    <SearchInput />
+    <DiscountRangeSlider />
+  </div>
+
+  {}
+  <GameList games={gamesJSON} />
+</div>
+
+<script is:inline src="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.js"></script>
+
+<script>
+  const searchGameInput = document.querySelector<HTMLInputElement>("#search-input")
+  const searchButton = document.querySelector<HTMLButtonElement>("#search-btn")
+  const discountSlider = document.querySelector<HTMLInputElement>("#labels-range-input")
+  const gameList = document.querySelector<HTMLUListElement>("#game-list")
+
+  searchButton?.addEventListener("click", () => {
+    const searchGameValue = (searchGameInput?.value ?? "").toLowerCase()
+    const gameListItems = gameList?.querySelectorAll("#game-item")
+    const discountValue = Number(discountSlider?.value)
+
+    gameListItems?.forEach((game) => {
+      const title = game.querySelector("#game-title")?.textContent.toLowerCase()
+      const discountText = game.querySelector("#game-discount")?.textContent.replace("%", "").replace(" ", "")
+      console.log(discountText)
+      const discount = discountText !== "N/A" ? Number(discountText) : 0
+
+      if (title?.includes(searchGameValue) && discount >= discountValue) {
+        game.classList.remove("hidden")
+      } else {
+        game.classList.add("hidden")
+      }
+
+      console.log(`discount: ${discount} slider: ${discountValue}`)
+    })
+  })
+</script>

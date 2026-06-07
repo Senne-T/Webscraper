@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Football Manager 26",
+    "isDiscounted": true,
+    "discountPercentage": 10
+  },
+  {
+    "title": "Counter-Strike 2",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Steam Deck",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Rust",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "EA SPORTS FC™ 26",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Farming Simulator 25",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "F1® 25",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "No Man's Sky",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "House Flipper 2",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Euro Truck Simulator 2",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Microsoft Flight Simulator 2024",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "ARK: Survival Ascended",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Age of Empires IV: Anniversary Edition",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Necesse",
+    "isDiscounted": true,
+    "discountPercentage": 50
+  },
+  {
+    "title": "Medieval Dynasty",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Dota 2",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Factorio",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "The Sims™ 4",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "World of Tanks",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "House Flipper 2 - Scooby-Doo DLC",
+    "isDiscounted": true,
+    "discountPercentage": 10
+  },
+  {
+    "title": "Rust - Warhammer 40,000 Pack",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Ghost of Tsushima DIRECTOR'S CUT",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Factorio: Space Age",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Phasmophobia",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Tom Clancy's Rainbow Six® Siege X",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Manor Lords",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "American Truck Simulator",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "War Robots",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "ARK: Lost Colony Expansion Pass",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Becastled",
+    "isDiscounted": true,
+    "discountPercentage": 33
+  },
+  {
+    "title": "PAYDAY 2",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Football Manager 2024",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Age of Mythology: Retold",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Age of Empires IV: Dynasties of the East",
+    "isDiscounted": true,
+    "discountPercentage": 15
+  },
+  {
+    "title": "FOR HONOR™",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "RimWorld",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Fishing Planet",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Firestone - Online Idle RPG",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Planet Zoo",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Planet Coaster 2",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Construction Simulator",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "WorldBox - God Simulator",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Farming Simulator 25: Highlands Fishing Expansion",
+    "isDiscounted": true,
+    "discountPercentage": 10
+  },
+  {
+    "title": "Fast Food Simulator",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "LEGO® Party!",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Hello Kitty Island Adventure",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Garry's Mod",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Car Dealer Simulator",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Balatro",
+    "isDiscounted": false,
+    "discountPercentage": null
+  }
+]

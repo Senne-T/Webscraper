@@ -1,0 +1,664 @@
+{
+  "Componenten": {
+    "Graphic cards": [
+      {
+        "title": "Gigabyte GeForce RTX 5070 TI WINDFORCE OC SFF 16G Videokaart",
+        "price": "869,-",
+        "url": "https://www.megekko.nl/product/1963/297136/Nvidia-Videokaarten/Gigabyte-GeForce-RTX-5070-TI-WINDFORCE-OC-SFF-16G-Videokaart",
+        "details": {
+          "Merk": "Gigabyte",
+          "Graphics Engine": "GeForce RTX 5070 Ti",
+          "Videogeheugen": "16 GB",
+          "GPU snelheid (max)": "2497 MHz",
+          "CUDA cores": "8960",
+          "DLSS versie": "DLSS 4",
+          "VGA Geheugen type": "GDDR7",
+          "Verkrijgbaar sinds": "Januari 2025",
+          "EAN": "4719331355579",
+          "Vendorcode": "GV-N507TWF3OC-16GD",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "MSI GeForce RTX 5070 Ti 16G GAMING TRIO OC Videokaart",
+        "price": "929,-",
+        "url": "https://www.megekko.nl/product/1963/970173/Nvidia-Videokaarten/MSI-GeForce-RTX-5070-Ti-16G-GAMING-TRIO-OC-Videokaart",
+        "details": {
+          "Merk": "MSI",
+          "Graphics Engine": "GeForce RTX 5070 Ti",
+          "Videogeheugen": "16 GB",
+          "GPU snelheid (max)": "2580 MHz",
+          "CUDA cores": "8960",
+          "DLSS versie": "DLSS 4",
+          "VGA Geheugen type": "GDDR7",
+          "LED Verlichting": "✓︎",
+          "Verkrijgbaar sinds": "April 2025",
+          "EAN": "4711377301541",
+          "Vendorcode": "GeForce RTX 5070 Ti 16G GAMING",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "Gainward GeForce RTX 5070 Ti Phoenix-S 16GB GDDR7 Videokaart",
+        "price": "799,-",
+        "url": "https://www.megekko.nl/product/1963/1161636/Nvidia-Videokaarten/Gainward-GeForce-RTX-5070-Ti-Phoenix-S-16GB-GDDR7-Videokaart",
+        "details": {
+          "Merk": "Gainward",
+          "Graphics Engine": "GeForce RTX 5070 Ti",
+          "Videogeheugen": "16 GB",
+          "GPU snelheid (max)": "2452 MHz",
+          "CUDA cores": "8960",
+          "DLSS versie": "DLSS 4",
+          "VGA Geheugen type": "GDDR7",
+          "LED Verlichting": "✓︎",
+          "Verkrijgbaar sinds": "Juni 2025",
+          "EAN": "4710562245547",
+          "Vendorcode": "NE7507T019T2-GB2031K",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "MSI GeForce RTX 5070 12G GAMING TRIO OC Videokaart",
+        "price": "629,-",
+        "url": "https://www.megekko.nl/product/1963/968713/Nvidia-Videokaarten/MSI-GeForce-RTX-5070-12G-GAMING-TRIO-OC-Videokaart",
+        "details": {
+          "Merk": "MSI",
+          "Graphics Engine": "GeForce RTX 5070",
+          "Videogeheugen": "12 GB",
+          "GPU snelheid (max)": "2625 MHz",
+          "CUDA cores": "6144",
+          "DLSS versie": "DLSS 4",
+          "VGA Geheugen type": "GDDR7",
+          "LED Verlichting": "✓︎",
+          "Verkrijgbaar sinds": "Februari 2025",
+          "EAN": "4711377303927",
+          "Vendorcode": "GeForce RTX 5070 12G GAMING TR",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "INNO3D GeForce RTX 5070 Ti X3 OC White 16GB Videokaart",
+        "price": "869,-",
+        "url": "https://www.megekko.nl/product/1963/210294/Nvidia-Videokaarten/INNO3D-GeForce-RTX-5070-Ti-X3-OC-White-16GB-Videokaart",
+        "details": {
+          "Merk": "INNO3D",
+          "Graphics Engine": "GeForce RTX 5070 Ti",
+          "Videogeheugen": "16 GB",
+          "GPU snelheid (max)": "2482 MHz",
+          "CUDA cores": "8960",
+          "DLSS versie": "DLSS 4",
+          "VGA Geheugen type": "GDDR7",
+          "Verkrijgbaar sinds": "Februari 2025",
+          "EAN": "8886307700230",
+          "Vendorcode": "N507T3-16D7X-176068W",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "Zotac Gaming GeForce RTX 5070 Ti AMP Extreme Infinity Videokaart",
+        "price": "979,-",
+        "url": "https://www.megekko.nl/product/1963/1155155/Nvidia-Videokaarten/Zotac-Gaming-GeForce-RTX-5070-Ti-AMP-Extreme-Infinity-Videokaart",
+        "details": {
+          "Merk": "Zotac",
+          "Graphics Engine": "GeForce RTX 5070 Ti",
+          "Videogeheugen": "16 GB",
+          "GPU snelheid (max)": "2512 MHz",
+          "CUDA cores": "8960",
+          "DLSS versie": "DLSS 4",
+          "VGA Geheugen type": "GDDR7",
+          "LED Verlichting": "✓︎",
+          "Verkrijgbaar sinds": "Februari 2025",
+          "EAN": "8886307700391",
+          "Vendorcode": "ZT-B50710B-10P",
+          "Garantie": "24 maanden"
+        }
+      },
+      {
+        "title": "MSI GeForce RTX 5070 12G GAMING TRIO OC WHITE Videokaart",
+        "price": "629,-",
+        "url": "https://www.megekko.nl/product/1963/968714/Nvidia-Videokaarten/MSI-GeForce-RTX-5070-12G-GAMING-TRIO-OC-WHITE-Videokaart",
+        "details": {
+          "Merk": "MSI",
+          "Graphics Engine": "GeForce RTX 5070",
+          "Videogeheugen": "12 GB",
+          "GPU snelheid (max)": "2625 MHz",
+          "CUDA cores": "6144",
+          "DLSS versie": "DLSS 4",
+          "VGA Geheugen type": "GDDR7",
+          "LED Verlichting": "✓︎",
+          "Verkrijgbaar sinds": "Februari 2025",
+          "EAN": "4711377303934",
+          "Vendorcode": "GeForce RTX 5070 12G GAMING TR",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "Gigabyte GeForce RTX 5070 TI GAMING OC 16G Videokaart",
+        "price": "949,-",
+        "url": "https://www.megekko.nl/product/1963/297127/Nvidia-Videokaarten/Gigabyte-GeForce-RTX-5070-TI-GAMING-OC-16G-Videokaart",
+        "details": {
+          "Merk": "Gigabyte",
+          "Graphics Engine": "GeForce RTX 5070 Ti",
+          "Videogeheugen": "16 GB",
+          "GPU snelheid (max)": "2588 MHz",
+          "CUDA cores": "8960",
+          "DLSS versie": "DLSS 4",
+          "VGA Geheugen type": "GDDR7",
+          "LED Verlichting": "✓︎",
+          "Verkrijgbaar sinds": "Januari 2025",
+          "EAN": "4719331355562",
+          "Vendorcode": "GV-N507TGAMING OC-16GD",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "ASUS GeForce RTX 5070 PRIME-RTX5070-O12G-WHITE Videokaart",
+        "price": "609,-",
+        "url": "https://www.megekko.nl/product/1963/297676/Nvidia-Videokaarten/ASUS-GeForce-RTX-5070-PRIME-RTX5070-O12G-WHITE-Videokaart",
+        "details": {
+          "Merk": "Asus",
+          "Graphics Engine": "GeForce RTX 5070",
+          "Videogeheugen": "12 GB",
+          "GPU snelheid (max)": "2587 MHz",
+          "CUDA cores": "6144",
+          "DLSS versie": "DLSS 4",
+          "VGA Geheugen type": "GDDR7",
+          "Verkrijgbaar sinds": "April 2025",
+          "EAN": "4711636046121",
+          "Vendorcode": "90YV0M19-M0NA00",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "ASUS GeForce RTX 5070 TUF-RTX5070-O12G-GAMING Videokaart",
+        "price": "649,-",
+        "url": "https://www.megekko.nl/product/1963/297350/Nvidia-Videokaarten/ASUS-GeForce-RTX-5070-TUF-RTX5070-O12G-GAMING-Videokaart",
+        "details": {
+          "Merk": "Asus",
+          "Graphics Engine": "GeForce RTX 5070",
+          "Videogeheugen": "12 GB",
+          "GPU snelheid (max)": "2640 MHz",
+          "CUDA cores": "6144",
+          "DLSS versie": "DLSS 4",
+          "VGA Geheugen type": "GDDR7",
+          "LED Verlichting": "✓︎",
+          "Verkrijgbaar sinds": "Maart 2025",
+          "EAN": "4711387849071",
+          "Vendorcode": "90YV0LZ0-M0NA00",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "MSI GeForce RTX 5070 Ti 16G EXPERT OC Videokaart",
+        "price": "949,-",
+        "url": "https://www.megekko.nl/product/1963/972440/Nvidia-Videokaarten/MSI-GeForce-RTX-5070-Ti-16G-EXPERT-OC-Videokaart",
+        "details": {
+          "Merk": "MSI",
+          "Graphics Engine": "GeForce RTX 5070 Ti",
+          "Videogeheugen": "16 GB",
+          "GPU snelheid (max)": "2588 MHz",
+          "CUDA cores": "8960",
+          "DLSS versie": "DLSS 4",
+          "VGA Geheugen type": "GDDR7",
+          "Verkrijgbaar sinds": "Juli 2025",
+          "EAN": "4711377362238",
+          "Vendorcode": "GeForce RTX 5070 Ti 16G EXPERT",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "Gigabyte GeForce RTX 5070 GAMING OC 12G Videokaart",
+        "price": "639,-",
+        "url": "https://www.megekko.nl/product/1963/297143/Nvidia-Videokaarten/Gigabyte-GeForce-RTX-5070-GAMING-OC-12G-Videokaart",
+        "details": {
+          "Merk": "Gigabyte",
+          "Graphics Engine": "GeForce RTX 5070",
+          "Videogeheugen": "12 GB",
+          "GPU snelheid (max)": "2625 MHz",
+          "CUDA cores": "6144",
+          "DLSS versie": "DLSS 4",
+          "VGA Geheugen type": "GDDR7",
+          "LED Verlichting": "✓︎",
+          "Verkrijgbaar sinds": "Januari 2025",
+          "EAN": "4719331355722",
+          "Vendorcode": "GV-N5070GAMING OC-12GD",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "MSI GeForce RTX 5070 Ti 16G INSPIRE 3X OC Videokaart",
+        "price": "929,-",
+        "url": "https://www.megekko.nl/product/1963/1156849/Nvidia-Videokaarten/MSI-GeForce-RTX-5070-Ti-16G-INSPIRE-3X-OC-Videokaart",
+        "details": {
+          "Merk": "MSI",
+          "Graphics Engine": "GeForce RTX 5070 Ti",
+          "Videogeheugen": "16 GB",
+          "GPU snelheid (max)": "2497 MHz",
+          "CUDA cores": "8960",
+          "DLSS versie": "DLSS 4",
+          "VGA Geheugen type": "GDDR7",
+          "Verkrijgbaar sinds": "Maart 2025",
+          "EAN": "4711377317160",
+          "Vendorcode": "GeForce RTX 5070 Ti 16G INSPIR",
+          "Garantie": "36 maanden"
+        }
+      }
+    ],
+    "Processors": [
+      {
+        "title": "AMD Ryzen 7 9800X3D Processor",
+        "price": "489,-",
+        "url": "https://www.megekko.nl/product/8200/1752769/Socket-AM5-Processoren/AMD-Ryzen-7-9800X3D-Processor",
+        "details": {
+          "Merk": "AMD",
+          "Processor Serie": "AMD Ryzen 7",
+          "Processor Model": "9800X3D",
+          "Socket": "AM5",
+          "Processor Snelheid": "4.70 GHz",
+          "Kloksnelheid Turbo": "5.20 GHz",
+          "Processor Cores": "8",
+          "Geïntegreerde graphics": "AMD Radeon Graphics",
+          "Verkrijgbaar sinds": "Oktober 2024",
+          "EAN": "730143315289",
+          "Vendorcode": "100-100001084WOF",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "AMD Ryzen 9 9950X3D Processor",
+        "price": "699,-",
+        "url": "https://www.megekko.nl/product/8200/183019/Socket-AM5-Processoren/AMD-Ryzen-9-9950X3D-Processor",
+        "details": {
+          "Merk": "AMD",
+          "Processor Serie": "AMD Ryzen 9",
+          "Processor Model": "9950X3D",
+          "Socket": "AM5",
+          "Processor Snelheid": "4.30 GHz",
+          "Kloksnelheid Turbo": "5.70 GHz",
+          "Processor Cores": "16",
+          "Geïntegreerde graphics": "AMD Radeon Graphics",
+          "Verkrijgbaar sinds": "Februari 2025",
+          "EAN": "730143315555",
+          "Vendorcode": "100-100000719WOF",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "AMD Ryzen 9 9950X Processor",
+        "price": "549,-",
+        "url": "https://www.megekko.nl/product/8200/295027/Socket-AM5-Processoren/AMD-Ryzen-9-9950X-Processor",
+        "details": {
+          "Merk": "AMD",
+          "Processor Serie": "AMD Ryzen 9",
+          "Processor Model": "9950X",
+          "Socket": "AM5",
+          "Processor Snelheid": "4.30 GHz",
+          "Kloksnelheid Turbo": "5.70 GHz",
+          "Processor Cores": "16",
+          "Geïntegreerde graphics": "AMD Radeon Graphics",
+          "Verkrijgbaar sinds": "Juni 2024",
+          "EAN": "730143315272",
+          "Vendorcode": "100-100001277WOF",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "AMD Ryzen 9 9900X3D Processor",
+        "price": "609,-",
+        "url": "https://www.megekko.nl/product/8200/1626533/Socket-AM5-Processoren/AMD-Ryzen-9-9900X3D-Processor",
+        "details": {
+          "Merk": "AMD",
+          "Processor Serie": "AMD Ryzen 9",
+          "Processor Model": "9900X3D",
+          "Socket": "AM5",
+          "Processor Snelheid": "4.40 GHz",
+          "Kloksnelheid Turbo": "5.50 GHz",
+          "Processor Cores": "12",
+          "Geïntegreerde graphics": "AMD Radeon Graphics",
+          "Verkrijgbaar sinds": "Februari 2025",
+          "EAN": "730143315579",
+          "Vendorcode": "100-100001368WOF",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "AMD Ryzen 9 7950X Processor",
+        "price": "549,-",
+        "url": "https://www.megekko.nl/product/8200/294851/Socket-AM5-Processoren/AMD-Ryzen-9-7950X-Processor",
+        "details": {
+          "Merk": "AMD",
+          "Processor Serie": "AMD Ryzen 9",
+          "Processor Model": "7950X",
+          "Socket": "AM5",
+          "Processor Snelheid": "4.50 GHz",
+          "Kloksnelheid Turbo": "5.70 GHz",
+          "Processor Cores": "16",
+          "Geïntegreerde graphics": "AMD Radeon Graphics",
+          "Verkrijgbaar sinds": "Augustus 2022",
+          "EAN": "730143314534",
+          "Vendorcode": "100-100000514WOF",
+          "Garantie": "36 maanden"
+        }
+      }
+    ],
+    "Motherboards": [
+      {
+        "title": "Gigabyte X870 AORUS ELITE WIFI7 moederbord",
+        "price": "279,-",
+        "url": "https://www.megekko.nl/product/8197/1149022/AMD-Socket-AM5-Moederborden/Gigabyte-X870-AORUS-ELITE-WIFI7-moederbord",
+        "details": {
+          "Merk": "Gigabyte",
+          "Form factor moederbord": "ATX",
+          "Socket": "AM5",
+          "Chipset": "AMD X870",
+          "Aantal geheugen slots": "4 x",
+          "Max. Geheugen": "256 GB",
+          "Geheugen type": "DDR5",
+          "Wi-Fi": "✓︎",
+          "PCI-E 5.0 x16": "1 x",
+          "PCI-E 4.0 x16": "2 x",
+          "M.2 Slot Aantal": "4 x",
+          "Kleur Product": "Zwart",
+          "Verkrijgbaar sinds": "September 2024",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "Gigabyte X870E AORUS ELITE WIFI7 moederbord",
+        "price": "299,-",
+        "url": "https://www.megekko.nl/product/8197/1149021/AMD-Socket-AM5-Moederborden/Gigabyte-X870E-AORUS-ELITE-WIFI7-moederbord",
+        "details": {
+          "Merk": "Gigabyte",
+          "Form factor moederbord": "ATX",
+          "Socket": "AM5",
+          "Chipset": "AMD X870E",
+          "Aantal geheugen slots": "4 x",
+          "Max. Geheugen": "256 GB",
+          "Geheugen type": "DDR5",
+          "Wi-Fi": "✓︎",
+          "PCI-E 5.0 x16": "1 x",
+          "PCI-E 4.0 x16": "1 x",
+          "PCI-E 3.0 x16": "1 x",
+          "M.2 Slot Aantal": "4 x",
+          "Kleur Product": "Zwart",
+          "Verkrijgbaar sinds": "September 2024",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "MSI MAG B850 TOMAHAWK MAX WIFI moederbord",
+        "price": "259,-",
+        "url": "https://www.megekko.nl/product/8197/1153384/AMD-Socket-AM5-Moederborden/MSI-MAG-B850-TOMAHAWK-MAX-WIFI-moederbord",
+        "details": {
+          "Merk": "MSI",
+          "Form factor moederbord": "ATX",
+          "Socket": "AM5",
+          "Chipset": "AMD B850",
+          "Aantal geheugen slots": "4 x",
+          "Geheugen type": "DDR5",
+          "Wi-Fi": "✓︎",
+          "PCI-E 5.0 x16": "1 x",
+          "PCI-E 4.0 x16": "1 x",
+          "PCI-E 3.0 x1": "1 x",
+          "M.2 Slot Aantal": "4 x",
+          "Kleur Product": "Zwart",
+          "Verkrijgbaar sinds": "December 2024",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "MSI MAG X870 TOMAHAWK WIFI moederbord",
+        "price": "299,-",
+        "url": "https://www.megekko.nl/product/8197/1148651/AMD-Socket-AM5-Moederborden/MSI-MAG-X870-TOMAHAWK-WIFI-moederbord",
+        "details": {
+          "Merk": "MSI",
+          "Form factor moederbord": "ATX",
+          "Socket": "AM5",
+          "Chipset": "AMD X870",
+          "Aantal geheugen slots": "4 x",
+          "Max. Geheugen": "256 GB",
+          "Geheugen type": "DDR5",
+          "Wi-Fi": "✓︎",
+          "PCI-E 5.0 x16": "1 x",
+          "PCI-E 4.0 x16": "1 x",
+          "PCI-E 3.0 x16": "1 x",
+          "M.2 Slot Aantal": "4 x",
+          "Kleur Product": "Zwart",
+          "Verkrijgbaar sinds": "Augustus 2024",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "MSI MAG X870E TOMAHAWK WIFI moederbord",
+        "price": "339,-",
+        "url": "https://www.megekko.nl/product/8197/1153382/AMD-Socket-AM5-Moederborden/MSI-MAG-X870E-TOMAHAWK-WIFI-moederbord",
+        "details": {
+          "Merk": "MSI",
+          "Form factor moederbord": "ATX",
+          "Socket": "AM5",
+          "Chipset": "AMD X870E",
+          "Aantal geheugen slots": "4 x",
+          "Max. Geheugen": "256 GB",
+          "Geheugen type": "DDR5",
+          "Wi-Fi": "✓︎",
+          "PCI-E 5.0 x16": "1 x",
+          "PCI-E 4.0 x16": "1 x",
+          "PCI-E 4.0 x4": "1 x",
+          "PCI-E 3.0 x16": "1 x",
+          "PCI-E 3.0 x1": "1 x",
+          "M.2 Slot Aantal": "4 x",
+          "Kleur Product": "Zwart",
+          "Verkrijgbaar sinds": "December 2024",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "Gigabyte X870E AORUS PRO ICE moederbord",
+        "price": "339,-",
+        "url": "https://www.megekko.nl/product/8197/1149027/AMD-Socket-AM5-Moederborden/Gigabyte-X870E-AORUS-PRO-ICE-moederbord",
+        "details": {
+          "Merk": "Gigabyte",
+          "Form factor moederbord": "ATX",
+          "Socket": "AM5",
+          "Chipset": "AMD X870E",
+          "Aantal geheugen slots": "4 x",
+          "Max. Geheugen": "256 GB",
+          "Geheugen type": "DDR5",
+          "Wi-Fi": "✓︎",
+          "PCI-E 5.0 x16": "1 x",
+          "PCI-E 4.0 x16": "1 x",
+          "PCI-E 3.0 x16": "1 x",
+          "M.2 Slot Aantal": "4 x",
+          "Kleur Product": "Wit",
+          "Verkrijgbaar sinds": "September 2024",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "ASUS ROG STRIX B850-I GAMING WIFI moederbord",
+        "price": "289,-",
+        "url": "https://www.megekko.nl/product/8197/1153764/AMD-Socket-AM5-Moederborden/ASUS-ROG-STRIX-B850-I-GAMING-WIFI-moederbord",
+        "details": {
+          "Merk": "Asus",
+          "Form factor moederbord": "Mini-ITX",
+          "Socket": "AM5",
+          "Chipset": "AMD B850",
+          "Aantal geheugen slots": "2 x",
+          "Max. Geheugen": "96 GB",
+          "Geheugen type": "DDR5",
+          "Wi-Fi": "✓︎",
+          "PCI-E 5.0 x16": "1 x",
+          "M.2 Slot Aantal": "2 x",
+          "Kleur Product": "Zwart",
+          "Verkrijgbaar sinds": "December 2024",
+          "Garantie": "36 maanden"
+        }
+      },
+      {
+        "title": "Gigabyte X870E AORUS PRO moederbord",
+        "price": "349,-",
+        "url": "https://www.megekko.nl/product/8197/1149026/AMD-Socket-AM5-Moederborden/Gigabyte-X870E-AORUS-PRO-moederbord",
+        "details": {
+          "Merk": "Gigabyte",
+          "Form factor moederbord": "ATX",
+          "Socket": "AM5",
+          "Chipset": "AMD X870E",
+          "Aantal geheugen slots": "4 x",
+          "Max. Geheugen": "256 GB",
+          "Geheugen type": "DDR5",
+          "Wi-Fi": "✓︎",
+          "PCI-E 5.0 x16": "1 x",
+          "PCI-E 4.0 x16": "1 x",
+          "PCI-E 4.0 x4": "1 x",
+          "PCI-E 3.0 x16": "1 x",
+          "PCI-E 3.0 x4": "1 x",
+          "M.2 Slot Aantal": "4 x",
+          "Kleur Product": "Zwart",
+          "Verkrijgbaar sinds": "September 2024",
+          "Garantie": "36 maanden"
+        }
+      }
+    ],
+    "Memory": [
+      {
+        "title": "Patriot Memory Viper Venom 2x16GB 6000Mhz CL30 PVV532G600C30K geheugenmodule",
+        "price": "139,",
+        "url": "https://www.megekko.nl/product/7962/1146957/DDR5-Geheugen/Patriot-Memory-Viper-Venom-2x16GB-6000Mhz-CL30-PVV532G600C30K-geheugenmodule",
+        "details": {
+          "Merk": "Patriot",
+          "Modules (aantal)": "2 stuk(s)",
+          "Geheugen capaciteit": "32 GB",
+          "Geheugen snelheid": "6000 MHz",
+          "Timings": "CL 30",
+          "Intel XMP ondersteuning": "✓︎",
+          "AMD EXPO ondersteuning": "✓︎",
+          "Verkrijgbaar sinds": "Juni 2024",
+          "EAN": "4711378428193",
+          "Vendorcode": "PVV532G600C30K",
+          "Garantie": "24 maanden"
+        }
+      },
+      {
+        "title": "Patriot Memory Viper Venom 2x16GB 6000Mhz CL36 PVV532G600C36K geheugenmodule",
+        "price": "119,",
+        "url": "https://www.megekko.nl/product/7962/1075279/DDR5-Geheugen/Patriot-Memory-Viper-Venom-2x16GB-6000Mhz-CL36-PVV532G600C36K-geheugenmodule",
+        "details": {
+          "Merk": "Patriot",
+          "Modules (aantal)": "2 stuk(s)",
+          "Geheugen capaciteit": "32 GB",
+          "Geheugen snelheid": "6000 MHz",
+          "Timings": "CL 36",
+          "Intel XMP ondersteuning": "✓︎",
+          "Verkrijgbaar sinds": "Januari 2023",
+          "EAN": "814914029572",
+          "Vendorcode": "PVV532G600C36K",
+          "Garantie": "24 maanden"
+        }
+      },
+      {
+        "title": "Kingston DDR5 FURY Beast 2x8GB 5600 KF556C36BBEK2-16 geheugenmodule",
+        "price": "89,",
+        "url": "https://www.megekko.nl/product/7962/1075865/DDR5-Geheugen/Kingston-DDR5-FURY-Beast-2x8GB-5600-KF556C36BBEK2-16-geheugenmodule",
+        "details": {
+          "Merk": "Kingston",
+          "Modules (aantal)": "2 stuk(s)",
+          "Geheugen capaciteit": "16 GB",
+          "Geheugen snelheid": "5600 MHz",
+          "Timings": "CL 36",
+          "Intel XMP ondersteuning": "✓︎",
+          "AMD EXPO ondersteuning": "✓︎",
+          "Verkrijgbaar sinds": "Januari 2023",
+          "EAN": "740617331769",
+          "Vendorcode": "KF556C36BBEK2-16",
+          "Garantie": "120 maanden"
+        }
+      },
+      {
+        "title": "Kingston DDR5 FURY Beast 2x8GB 5200 KF552C40BBK2-16 geheugenmodule",
+        "price": "79,",
+        "url": "https://www.megekko.nl/product/7962/1044577/DDR5-Geheugen/Kingston-DDR5-FURY-Beast-2x8GB-5200-KF552C40BBK2-16-geheugenmodule",
+        "details": {
+          "Merk": "Kingston",
+          "Modules (aantal)": "2 stuk(s)",
+          "Geheugen capaciteit": "16 GB",
+          "Geheugen snelheid": "5200 MHz",
+          "Timings": "CL 40",
+          "Intel XMP ondersteuning": "✓︎",
+          "Verkrijgbaar sinds": "Maart 2022",
+          "EAN": "740617325959",
+          "Vendorcode": "KF552C40BBK2-16",
+          "Garantie": "120 maanden"
+        }
+      },
+      {
+        "title": "Kingston DDR5 FURY Beast 2x8GB 6000 KF560C30BBEK2-16 geheugenmodule",
+        "price": "89,",
+        "url": "https://www.megekko.nl/product/7962/1148222/DDR5-Geheugen/Kingston-DDR5-FURY-Beast-2x8GB-6000-KF560C30BBEK2-16-geheugenmodule",
+        "details": {
+          "Merk": "Kingston",
+          "Modules (aantal)": "2 stuk(s)",
+          "Geheugen capaciteit": "16 GB",
+          "Geheugen snelheid": "6000 MHz",
+          "Timings": "CL 30",
+          "AMD EXPO ondersteuning": "✓︎",
+          "Verkrijgbaar sinds": "Augustus 2024",
+          "EAN": "740617343427",
+          "Vendorcode": "KF560C30BBEK2-16",
+          "Garantie": "120 maanden"
+        }
+      },
+      {
+        "title": "Kingston DDR5 FURY Beast 2x16GB 5200 KF552C40BBK2-32 geheugenmodule",
+        "price": "138,",
+        "url": "https://www.megekko.nl/product/7962/1026749/DDR5-Geheugen/Kingston-DDR5-FURY-Beast-2x16GB-5200-KF552C40BBK2-32-geheugenmodule",
+        "details": {
+          "Merk": "Kingston",
+          "Modules (aantal)": "2 stuk(s)",
+          "Geheugen capaciteit": "32 GB",
+          "Geheugen snelheid": "5200 MHz",
+          "Timings": "CL 40",
+          "Intel XMP ondersteuning": "✓︎",
+          "AMD EXPO ondersteuning": "✓︎",
+          "Verkrijgbaar sinds": "Oktober 2021",
+          "EAN": "740617324358",
+          "Vendorcode": "KF552C40BBK2-32",
+          "Garantie": "120 maanden"
+        }
+      },
+      {
+        "title": "Kingston DDR5 FURY Beast 2x8GB 5600 KF556C40BBK2-16 geheugenmodule",
+        "price": "79,",
+        "url": "https://www.megekko.nl/product/7962/1044582/DDR5-Geheugen/Kingston-DDR5-FURY-Beast-2x8GB-5600-KF556C40BBK2-16-geheugenmodule",
+        "details": {
+          "Merk": "Kingston",
+          "Modules (aantal)": "2 stuk(s)",
+          "Geheugen capaciteit": "16 GB",
+          "Geheugen snelheid": "5600 MHz",
+          "Timings": "CL 40",
+          "Intel XMP ondersteuning": "✓︎",
+          "Verkrijgbaar sinds": "Maart 2022",
+          "EAN": "740617325935",
+          "Vendorcode": "KF556C40BBK2-16",
+          "Garantie": "120 maanden"
+        }
+      },
+      {
+        "title": "Kingston DDR5 FURY Beast 1x16GB 5600 KF556C40BB-16 geheugenmodule",
+        "price": "79,",
+        "url": "https://www.megekko.nl/product/7962/1032889/DDR5-Geheugen/Kingston-DDR5-FURY-Beast-1x16GB-5600-KF556C40BB-16-geheugenmodule",
+        "details": {
+          "Merk": "Kingston",
+          "Modules (aantal)": "1 stuk(s)",
+          "Geheugen capaciteit": "16 GB",
+          "Geheugen snelheid": "5600 MHz",
+          "Timings": "CL 40",
+          "Intel XMP ondersteuning": "✓︎",
+          "Verkrijgbaar sinds": "December 2021",
+          "EAN": "740617325713",
+          "Vendorcode": "KF556C40BB-16",
+          "Garantie": "120 maanden"
+        }
+      }
+    ]
+  }
+}

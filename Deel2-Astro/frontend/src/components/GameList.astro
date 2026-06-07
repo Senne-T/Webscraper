@@ -1,0 +1,14 @@
+---
+import type { Game } from "../models/game"
+import GameListItem from "./GameListItem.astro"
+
+interface Props {
+  games: Game[]
+}
+
+const { games } = Astro.props
+---
+
+<ul id="game-list" class="divide-y divide-gray-200">
+  {games.map((game) => <GameListItem game={game} />)}
+</ul>

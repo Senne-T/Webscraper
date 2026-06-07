@@ -1,0 +1,22 @@
+---
+import type { Game } from "../models/game"
+
+interface Props {
+  game: Game
+}
+
+const { game } = Astro.props
+---
+
+<li id="game-item" class="py-3 sm:py-4">
+  <div class="flex items-center space-x-4 rtl:space-x-reverse">
+    <div class="flex-1 min-w-0">
+      <p id="game-title" class="text-sm font-medium text-gray-900 truncate">{game.title}</p>
+    </div>
+    <div class="inline-flex items-center text-base font-semibold text-gray-900">
+      <span id="game-discount" class={game.isDiscounted ? "text-green-500 discount-percentage" : "text-gray-500"}
+        >{game.isDiscounted ? `${game.discountPercentage}%` : "N/A"}</span
+      >
+    </div>
+  </div>
+</li>
