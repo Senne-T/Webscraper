@@ -1,0 +1,62 @@
+name: Build, Test & Deploy
+defaults:
+  run:
+    working-directory: Deel2-Astro/frontend
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+jobs:
+  build-and-test:
+    timeout-minutes: 15
+    name: "Build & Test"
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version: lts/*
+    - name: Install dependencies
+      run: npm install -g pnpm && pnpm install
+    # Build frontend
+    - name: Build frontend
+      run: pnpm build
+    # Create frontend artifact
+    - name: Upload frontend artifact 
+      uses: actions/upload-artifact@v4
+      with:
+        name: frontend_artifact
+        path: Deel2-Astro/frontend/dist
+    - name: Install Playwright Browsers
+      run: pnpm exec playwright install --with-deps
+    # Run tests
+    - name: Run e2e tests
+      run: pnpm exec playwright test
+    # Create test artifact
+    - name: Upload tests artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: test-results_articaft
+        path: Deel2-Astro/frontend/playwright-report
+
+  deploy:
+    needs: build-and-test
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      # Download artifact
+      - name: Get latest code
+        uses: actions/download-artifact@v4
+        with:
+          name: frontend_artifact
+          path: dist
+      # Upload inhoud van de frontend naar Combell
+      - name: Sync files
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }} 
+          local-dir: dist/
+          server-dir: /www/astro-build/
